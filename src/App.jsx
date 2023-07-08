@@ -45,7 +45,7 @@ function App() {
                   <div className="flex  items-center gap-2 px-3 py-2">
                     <img
                       src={e.url}
-                      className="w-12 rounded-full rounded-full"
+                      className="w-12 h-12 rounded-full rounded-full"
                       alt="Avatar"
                     />
                     <h1 className="font-semibold text-black text-base">
