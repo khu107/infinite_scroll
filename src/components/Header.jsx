@@ -21,7 +21,7 @@ export default function Header() {
       <div className="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div>
           <a
-            href="#"
+            href="https://github.com/khu107/infinite_scroll"
             className="inline-block text-sm px-4 py-2 leading-none border rounded text-black border-white hover:border-transparent hover:text-teal hover:bg-white mt-4 lg:mt-0"
           >
             <img className="w-6  " src={Git} />
